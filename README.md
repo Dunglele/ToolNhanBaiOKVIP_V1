@@ -23,3 +23,5 @@ Tool Anti-Detect nhận bài OKVIP V1
         node bott.js
         
 #Step 5: Press 0, if you want stop tool program
+
+#Lưu ý: Sau khi chạy bott.js, bạn phải tiến hành login tài khoản mật khẩu. Sau đó chuyển tới "chợ bài viết" để 'bot' tự động nhận bài.
